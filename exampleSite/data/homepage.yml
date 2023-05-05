@@ -1,17 +1,17 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "Advancement is Omega"
-  content : "Solving the problems of today to see a tomorrow worth living and a past worth remembering."
+  title : "Pariah AI"
+  content : "damnant quod non intellegunt"
   image : "images/hero-image/hero-slider-01.jpg"
   button:
-    enable : true
+    enable : false
     label : "WHAT WE DO"
     link : "#products"
 
 #################### Mission #####################
 mission:
-  enable : true
+  enable : false
   title : "Propel Advancement"
   section : "MISSION"
   content : "Introducing the world’s first Advancement Company. As we enter the dawn of the digital age a significant leap must be made to propel the world into the age of advancement."
@@ -21,7 +21,7 @@ mission:
 
 #################### Vission #####################
 vision:
-  enable : true
+  enable : false
   section : "VISION"
   vision_item:
   - title : "People First"
@@ -39,7 +39,7 @@ vision:
 
 #################### product ####################
 product:
-  enable : true
+  enable : false
   section : "Products"
   title : "Some Of Our Best Products"
   content : "See the innovation that has come through the Rio way. As an advancement company, the goal is to continuously find areas to help business push forward. Below you can find the first product available to help you do so."
@@ -62,7 +62,7 @@ product:
 
 ###################### Contact ####################
 contact:
-  enable : true
+  enable : false
   section : "CONTACT US"
   title : "reach us"
   image : "images/map-bg.jpg"
@@ -71,7 +71,7 @@ contact:
   
 ################### call to action #################
 call_to_action:
-  enable : true
+  enable : false
   title : "Join the Omega family. <br>Click below to view the career opportunities we have for you."
   button_label : "Apply Now"
   button_link : "career"
