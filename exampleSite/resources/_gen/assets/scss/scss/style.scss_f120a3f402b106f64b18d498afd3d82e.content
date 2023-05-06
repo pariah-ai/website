@@ -9263,26 +9263,26 @@ li.fancybox-thumbs-loading {
 
 /*=== MEDIA QUERY ===*/
 @font-face {
-  font-family: 'bebas_neue_regular';
-  src: url("../fonts/bebasneue_regular-webfont.woff2") format("woff2"), url("../fonts/bebasneue_regular-webfont.woff") format("woff"); }
+  font-family: 'AntonioBold';
+  src: url("../fonts/Antonio-Bold.ttf") format("truetype"); }
 
 @font-face {
-  font-family: 'butlerbold';
-  src: url("../fonts/butler_bold-webfont.woff2") format("woff2"), url("../fonts/butler_bold-webfont.woff") format("woff"); }
+  font-family: 'AntonioRegular';
+  src: url("../fonts/Antonio-Regular.ttf") format("truetype"); }
 
 body {
   line-height: 1.5;
-  font-family: "bebas_neue_regular";
+  font-family: "AntonioRegular";
   -webkit-font-smoothing: antialiased; }
 
 p {
-  font-family: "bebas_neue_regular";
+  font-family: "AntonioRegular";
   color: #fff;
   font-size: 16px;
   letter-spacing: 1px; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "butlerbold";
+  font-family: "AntonioBold";
   color: #fff; }
 
 h1, h2, h3, h4, h5, h6 {
@@ -9560,7 +9560,7 @@ body {
         letter-spacing: 2px;
         font-weight: 400;
         font-size: 20px;
-        font-family: "bebas_neue_regular"; }
+        font-family: "AntonioRegular"; }
         @media (max-width: 1200px) {
           .hero-slider-wrapper .item .content h3 {
             font-size: 20px;
@@ -9622,7 +9622,7 @@ body {
     position: relative;
     font-size: 13px;
     margin-top: 20px;
-    font-family: "bebas_neue_regular"; }
+    font-family: "AntonioRegular"; }
     .scroll h6::before {
       position: absolute;
       content: '';
@@ -9821,7 +9821,7 @@ body {
   z-index: 6; }
   .visions::before {
     content: 'MADE THINGS';
-    font-family: "bebas_neue_regular";
+    font-family: "AntonioRegular";
     position: absolute;
     top: 18%;
     width: 100%;

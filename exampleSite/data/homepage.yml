@@ -1,7 +1,7 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "Pariah AI"
+  title : "PARIAH AI"
   content : "damnant quod non intellegunt"
   image : "images/hero-image/hero-slider-01.jpg"
   button:
