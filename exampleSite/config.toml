@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
-title = "pariah-website"
+baseURL = "https://pariah.ai"
+title = "Pariah AI"
 theme = "pariah-website"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
