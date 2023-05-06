@@ -45,10 +45,10 @@ unsafe= true
 logo = "images/logo.png"
 logo_width = "120px"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = ""
+author = "Pariah AI"
 # contact info
-contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
+contact_info = ""
 # Preloader
 preloader = true
 # google map
